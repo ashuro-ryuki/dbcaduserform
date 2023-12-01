@@ -13,7 +13,7 @@ Este projeto é fundamental para o controle e segurança das informações dos u
 ## ultilidade
  nesse projetos faremos o salvamneto de dados dentro do site, puxando de do servidor vinculado ao XAMPP
  fazendo assim o armazenamento das informações inseridas dentro dos campos de email, senha e nome. 
-![dbform](dbform.png)
+
 ## tecnologias ultilizadas
  
 | Tecnologia    | versão    |
